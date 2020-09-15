@@ -3,11 +3,11 @@ export const users = {
     'John Smith': [
         {
             date: '2020-07-08',
-            paidAmount: '90'
+            paidAmount: '185'
         },
         {
             date: '2020-07-12',
-            paidAmount: '120'
+            paidAmount: '322'
         },
         {
             date: '2020-08-04',
